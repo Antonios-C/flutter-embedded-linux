@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <string>
+#include <cstdint>
 
 #include "binary_messenger.h"
 #include "message_codec.h"

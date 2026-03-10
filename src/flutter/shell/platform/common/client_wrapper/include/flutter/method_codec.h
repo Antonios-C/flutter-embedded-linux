@@ -8,6 +8,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <cstdint>
 
 #include "method_call.h"
 #include "method_result.h"

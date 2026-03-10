@@ -8,6 +8,7 @@
 #include <memory>
 #include <string>
 #include <vector>
+#include <cstdint>
 
 #include "binary_messenger.h"
 #include "method_codec.h"
